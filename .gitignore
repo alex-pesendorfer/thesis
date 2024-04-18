@@ -1,0 +1,9 @@
+env
+figures
+raw_articles_by_month
+embedded_articles_by_month
+cleaned_categorized_embedded_articles_by_month
+stock_tagged_final_data_by_month
+reg_data_with_close
+articles_2023.csv
+.DS_Store
